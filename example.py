@@ -8,6 +8,7 @@ def test_add():
 
 
 def subtract(a, b):
+    # Here was the mistake and now it is fixed.
     return a - b  # <--- fix this in step 8
 
 
